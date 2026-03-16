@@ -10,7 +10,7 @@
 
 ## 🖼 Preview
 
-![](assets/background.png)  
+![](assets/preview.png)  
 
 ---
 
