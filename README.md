@@ -6,4 +6,21 @@
 ## Live Link
 [https://bayardorj.github.io/Calorie-Counter/](https://bayardorj.github.io/Calorie-Counter/)
 
+---
+
+## 🖼 Preview
+
+![](assets/background.png)  
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Git & GitHub Pages  
+
+---
+
 ## Coming soon
